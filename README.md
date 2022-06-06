@@ -3,52 +3,26 @@
     <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
   </a>
 </p>
-<h1 align="center">
-  Gatsby minimal starter
-</h1>
+<div align="center">
+  <h1>Gatsby Starbucks Coffee Shop</h1>
+  <a cursor="pointer" href="https://mk-sofiinchausti.netlify.app">Go to page</a>
+</div>
 
-## 🚀 Quick start
+<h4>Starbucks Coffee Shop is a practicing project based in a Platzi course</h4>
 
-1.  **Create a Gatsby site.**
+Functionalities:
+- Show products available for purchase
+- Add to cart
+- Simulate a real purchase with Stripe
 
-    Use the Gatsby CLI to create a new site, specifying the minimal starter.
+Technologies used: NodeJS- ReactJS- Gatsby- Stripe
 
-    ```shell
-    # create a new Gatsby site using the minimal starter
-    npm init gatsby
-    ```
-
-2.  **Start developing.**
-
-    Navigate into your new site’s directory and start it up.
-
-    ```shell
-    cd my-gatsby-site/
-    npm run develop
-    ```
-
-3.  **Open the code and start customizing!**
-
-    Your site is now running at http://localhost:8000!
-
-    Edit `src/pages/index.js` to see your site update in real-time!
-
-4.  **Learn more**
-
-    - [Documentation](https://www.gatsbyjs.com/docs/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-
-    - [Tutorials](https://www.gatsbyjs.com/tutorial/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-
-    - [Guides](https://www.gatsbyjs.com/tutorial/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-
-    - [API Reference](https://www.gatsbyjs.com/docs/api-reference/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-
-    - [Plugin Library](https://www.gatsbyjs.com/plugins?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-
-    - [Cheat Sheet](https://www.gatsbyjs.com/docs/cheat-sheet/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-
-## 🚀 Quick start (Gatsby Cloud)
-
-Deploy this starter with one click on [Gatsby Cloud](https://www.gatsbyjs.com/cloud/):
-
-[<img src="https://www.gatsbyjs.com/deploynow.svg" alt="Deploy to Gatsby Cloud">](https://www.gatsbyjs.com/dashboard/deploynow?url=https://github.com/gatsbyjs/gatsby-starter-minimal)
+<h3>Home<h3>
+  <img src="src/images/screenshots/home.png"/>
+<h3>Products</h3>
+  <img src="src/images/screenshots/products.png"/>
+ <h3>Product Details</h3>
+  <img src="src/images/screenshots/product-detail.png"/>
+<h3>Stripe Integration</h3>
+  <img src="src/images/screenshots/stripe-integration.png"/>
+  
